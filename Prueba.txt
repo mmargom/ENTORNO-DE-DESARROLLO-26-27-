@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Buenos días, para quine los tenga. :)
+=======
+Hola, Buenos días; para el que los tenga. :)
+>>>>>>> 0aada3c77e9afde72d9756b139fb5e2312dae60c
